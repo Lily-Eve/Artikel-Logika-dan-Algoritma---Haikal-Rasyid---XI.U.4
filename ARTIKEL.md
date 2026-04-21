@@ -5,10 +5,9 @@ Dalam dunia pemrograman, algoritma merupakan urutan langkah-langkah logis yang d
 Tiga Notasi Algoritma Utama
 
 1. Notasi Deskriptif
-
 Notasi deskriptif adalah cara penulisan algoritma yang menggunakan kalimat naratif atau bahasa sehari-hari. Keuntungan menggunakan notasi ini adalah tidak adanya aturan penulisan yang baku, sehingga siapa pun dapat memahaminya tanpa latar belakang teknis yang mendalam.
-2. Pseudocode
 
+2. Pseudocode
 Pseudocode (kode semu) merupakan notasi yang menyerupai bahasa pemrograman, namun tetap menggunakan istilah manusia yang ringkas. Notasi ini sangat membantu pengembang untuk beralih dari rancangan logika ke tahap penulisan kode sesungguhnya (coding) karena strukturnya yang sudah sistematis.
 
 3. Flowchart (Diagram Alir)
